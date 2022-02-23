@@ -25,19 +25,18 @@
       "name": "Play!",
       "bundleIdentifier": "com.purei.play",
       "developerName": "Purei",
-      "subtitle": "Revival of the Nintendo DS emulator for iOS.",
+      "subtitle": "PS2 Emulator for iOS",
       "version": "1.10.8",
       "versionDate": "2020-03-01",
-      "versionDescription": "Version 1.10.8 fixes the cover art system",
-      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-      "localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen.",
-      "iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
+      "versionDescription": "see: https://github.com/jpd002/Play-/commits/master",
+      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/6974bc95/Play.ipa",
+      "localizedDescription": "Play! is a PS2 emulator for iOS",
+      "iconURL": "https://raw.githubusercontent.com/jpd002/Play-/master/icons/icon_base.png",
       "tintColor": "FC2125",
       "size": 857669,
       "screenshotURLs": [
-        "https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
-	    "https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
-	    "https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
+        "https://purei.org/screenshots/i_000120.png",
+	    "https://purei.org/screenshots/i_000087.png"
       ]
     },
     {
@@ -90,11 +89,9 @@
       "tintColor": "1E47D0",
       "size": 124967347,
       "screenshotURLs": [
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+        "https://getutm.app/assets/videos/utmv2.mov",
+        "https://hakin9.org/wp-content/uploads/2020/04/screen-2.png",
+        "https://cydia.getutm.app/assets/com.utmapp.UTM/screenshot/screen2.png"
       ]
     },
 	{
@@ -111,11 +108,9 @@
       "tintColor": "1E47D0",
       "size": 124967347,
       "screenshotURLs": [
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+        "https://getutm.app/assets/videos/utmv2.mov",
+        "https://hakin9.org/wp-content/uploads/2020/04/screen-2.png",
+        "https://cydia.getutm.app/assets/com.utmapp.UTM/screenshot/screen2.png"
       ]
     },
 	{
