@@ -44,7 +44,7 @@
       "name": "UTM",
       "bundleIdentifier": "com.osy86.UTM",
       "developerName": "osy86",
-      "subtitle": "Run virtual machines on iOS",
+      "subtitle": "Run virtual machines on iOS | Requires AltJIT / Jailbreak",
       "version": "3.1.1",
       "versionDate": "2022-02-23",
       "versionDescription": "Please visit https://getutm.app/install for more details.",
@@ -60,6 +60,101 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
       ]
-    }
+    },
+	{
+      "name": "UTM SE",
+      "bundleIdentifier": "com.osy86.UTM.SE",
+      "developerName": "osy86",
+      "subtitle": "Run virtual machines on iOS | Doesn't require AltJIT / Jailbreak",
+      "version": "3.1.1",
+      "versionDate": "2022-02-23",
+      "versionDescription": "Please visit https://getutm.app/install for more details.",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v3.1.1/UTM.SE.ipa",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.",
+      "iconURL": "https://getutm.app/assets/appicon.png",
+      "tintColor": "1E47D0",
+      "size": 124967347,
+      "screenshotURLs": [
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+      ]
+    },
+	{
+	  "name": "appdb",
+	  "bundleIdentifier": "it.ned.appdb-ios",
+	  "developerName": "n3d1117",
+	  "subtitle": "A fully-featured iOS client for appdb.to written in Swift 5",
+	  "version": "1.1.2",
+	  "versionDate": "2022-01-05",
+	  "versionDescription": "Custom developer identities are now detected correctly\nIntegrated new iOS 13 context menus, homescreen shortcuts & haptic feedbacks\nAdded pull to refresh to Featured tab\nAdded French translation (thanks to DzMohaipa)\nAdded Indonesian translation (thanks to Am1nCmd)\nAdded Javanese (Indonesia) translation (thanks to EskaseptianTeam)\nFixed bug where links were not clickable in News\nRemoved the (deprecated) option to link device via email\nVarious other minor fixes and additions",
+	  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.2/appdb_1.1.2.ipa",
+	  "localizedDescription": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
+	  "iconURL": "https://static.appdb.to/images/cydia-1900000538-icon.png",
+	  "tintColor": "008CE3",
+	  "size": 23554600,
+	  "screenshotURLs": [
+	  	"https://cdn.discordapp.com/attachments/558842854462717954/680945917465067599/appdb1.png",
+	  	"https://cdn.discordapp.com/attachments/558842854462717954/680945918417305613/appdb2.png",
+        "https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
+	  	"https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
+	  ]
+	},
+	{
+	  "name": "Paperback iOS",
+	  "bundleIdentifier": "paperback",
+	  "developerName": "FaizanDurrani",
+	  "subtitle": "An ad-free manga reader for iOS and iPadOS.",
+	  "version": "v0.6.2-r1.0.0",
+	  "versionDate": "2021-11-02",
+	  "versionDescription": "Fixed for iOS 15 // Removed Patreon links",
+	  "downloadURL": "https://github.com/Paperback-iOS/app/releases/download/v0.6.2-r1.0.0/Paperback.ipa",
+	  "localizedDescription": "An ad-free manga reader for iOS and iPadOS.",
+	  "iconURL": "https://avatars.githubusercontent.com/u/64667922?s=200&v=4",
+	  "tintColor": "101216",
+	  "size": 857669,
+	  "screenshotURLs": [
+	  	"https://cdn.discordapp.com/attachments/482068798095228928/678392675698999349/image0.png",
+	  	"https://cdn.discordapp.com/attachments/482068798095228928/678392676340465714/image1.png"
+	  ]
+	},
+	{
+	  "name": "NineAnimator",
+	  "bundleIdentifier": "NineAnimator",
+	  "developerName": "uttiya10",
+	  "subtitle": "A simple yet elegant way of waching anime on your favorite anime websites.",
+	  "version": "v1.2.7-6",
+	  "versionDate": "2021-11-02",
+	  "versionDescription": "see: https://github.com/SuperMarcus/NineAnimator/releases",
+	  "downloadURL": "https://github.com/SuperMarcus/NineAnimator/releases/download/1.2.7-6/NineAnimator_1.2.7_Build_6.ipa",
+	  "localizedDescription": "A simple yet elegant way of waching anime on your favorite anime websites. NineAnimator is a free and open source anime watching app for iOS and macOS. GPLv3 Licensed.",
+	  "iconURL": "https://styles.redditmedia.com/t5_125atg/styles/communityIcon_wusql1my8z031.png",
+	  "tintColor": "101216",
+	  "size": 857669,
+	  "screenshotURLs": [
+	  	"https://cdn.discordapp.com/attachments/482068798095228928/678392675698999349/image0.png",
+	  	"https://cdn.discordapp.com/attachments/482068798095228928/678392676340465714/image1.png"
+	  ]
+	},
+	{
+	  "name": "iTorrent",
+	  "bundleIdentifier": "iTorrent",
+	  "developerName": "XITRIX",
+	  "subtitle": "An ordinary torrent client for iOS with Files app support.",
+	  "version": "v1.8.3",
+	  "versionDate": "2021-11-02",
+	  "versionDescription": "Patreon fix on iOS 14 // Libtorrent updated to 1.2.10",
+	  "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
+	  "localizedDescription": "An ordinary torrent client for iOS with Files app support.",
+	  "iconURL": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
+	  "tintColor": "101216",
+	  "size": 857669,
+	  "screenshotURLs": [
+	    "https://cdn.discordapp.com/attachments/482068798095228928/678392675698999349/image0.png",
+		"https://cdn.discordapp.com/attachments/482068798095228928/678392676340465714/image1.png"
+	  ]
+	}
 ]
 }
