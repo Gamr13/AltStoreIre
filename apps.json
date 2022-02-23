@@ -18,7 +18,7 @@
       "screenshotURLs": [
         "https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
 	    "https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
-	    "https://static.appdb.to/images/cydia-1900000021-iphone-2.png",
+	    "https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
       ]
     },
     {
@@ -60,6 +60,6 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
       ]
-    },
+    }
 ]
 }
