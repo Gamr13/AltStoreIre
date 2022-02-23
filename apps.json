@@ -21,6 +21,25 @@
 	    "https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
       ]
     },
+	{
+      "name": "Play!",
+      "bundleIdentifier": "com.purei.play",
+      "developerName": "Purei",
+      "subtitle": "Revival of the Nintendo DS emulator for iOS.",
+      "version": "1.10.8",
+      "versionDate": "2020-03-01",
+      "versionDescription": "Version 1.10.8 fixes the cover art system",
+      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen.",
+      "iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
+      "tintColor": "FC2125",
+      "size": 857669,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
+	    "https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
+	    "https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
+      ]
+    },
     {
       "name": "Provenance",
       "bundleIdentifier": "com.provenance-emu.provenance",
@@ -59,7 +78,7 @@
     },
     {
       "name": "UTM",
-      "bundleIdentifier": "com.utm.app",
+      "bundleIdentifier": "com.utmapp.UTM",
       "developerName": "osy86",
       "subtitle": "Run virtual machines on iOS | Requires AltJIT / Jailbreak",
       "version": "3.1.1",
