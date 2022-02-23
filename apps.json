@@ -14,10 +14,6 @@
 			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
 			"tintColor": "FC2125",
 			"size": 857669,
-			"permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-			}],
 			"screenshotURLs": [
 				"https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
 				"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
@@ -37,10 +33,6 @@
 			"iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
 			"tintColor": "4AA1F0",
 			"size": 23184304,
-			"permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
-			}],
 			"screenshotURLs": [
 				"https://33.media.tumblr.com/274a3178850133f7db0ef530a69ec26d/tumblr_nhqpnuOa2o1t0wlalo3_1280.jpg",
 				"https://38.media.tumblr.com/d964d6d809d06c55f23c4ef65eee08ce/tumblr_nhqpnuOa2o1t0wlalo2_1280.jpg",
@@ -60,9 +52,6 @@
 			"iconURL": "https://getutm.app/assets/appicon.png",
 			"tintColor": "1E47D0",
 			"size": 124967347,
-			"screenshotURLs": [
-				"http://placehold.it/750x1334"
-			]
 		},
 		{
 			"name": "UTM SE",
@@ -77,9 +66,6 @@
 			"iconURL": "https://getutm.app/assets/appicon.png",
 			"tintColor": "1E47D0",
 			"size": 124967347,
-			"screenshotURLs": [
-				"http://placehold.it/750x1334"
-			]
 		},
 		{
 			"name": "appdb",
